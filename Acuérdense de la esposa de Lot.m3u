@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/1102017513/univ/art/1102017513_univ_wsr_lg.jpg",parte 1
+https://download-a.akamaihd.net/files/media_video/73/rwl_S_01_r720P.mp4
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/1102017516/univ/art/1102017516_univ_wsr_lg.jpg",parte 2
+https://download-a.akamaihd.net/files/media_video/7c/rwl_S_02_r720P.mp4
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/1102017519/univ/art/1102017519_univ_wsr_lg.jpg",parte 3
+https://download-a.akamaihd.net/files/media_video/4d/rwl_S_03_r720P.mp4
