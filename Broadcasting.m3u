@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/201801/art/jwb_univ_201801_wss_01_lg.jpg", Ene 2018
+https://download-a.akamaihd.net/files/media_broadcasting/09/jwb_S_201801_01_r720P.mp4
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/201802/art/jwb_univ_201802_wss_01_lg.jpg", Feb 2018
+https://download-a.akamaihd.net/files/media_broadcasting/4c/jwb_S_201802_01_r720P.mp4
+EXTINF:-1 tvg-logo="",
+EXTINF:-1 tvg-logo="",
+EXTINF:-1 tvg-logo="",
+EXTINF:-1 tvg-logo="",
+EXTINF:-1 tvg-logo="",
+EXTINF:-1 tvg-logo="",
