@@ -8,5 +8,5 @@ http://94.177.171.208/luz.mkv
 http://80.211.184.12/simio.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/transformers_the_last_knight-188708679-large.jpg", Transformers 5
 http://94.177.171.208/trafom.mkv
-EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/11700/11783/002_r3tcp6.jpg", La Forma del Agua
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/11700/11783/002_r3tcp6.jpg", La Forma del Agua
 http://94.177.171.208/lform.mkv
