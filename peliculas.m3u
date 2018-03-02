@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.selecta-vision.com/var/ezwebin_site/storage/images/noticias/en-este-rincon-del-mundo-proximamente-en-cines/126003-2-esl-ES/En-Este-rincon-del-Mundo-Proximamente-en-cines.jpg", EN ESTE RINCÓN DEL MUNDO
-http://80.211.184.12/kono.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/moonlight-232276883-large.jpg", Luz de Luna
 http://94.177.171.208/luz.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/war_for_the_planet_of_the_apes-586054910-large.jpg", El Planeta de los Simios
@@ -10,3 +8,5 @@ http://80.211.184.12/simio.mkv
 http://94.177.171.208/trafom.mkv
 #EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/11700/11783/002_r3tcp6.jpg", La Forma del Agua
 http://94.177.171.208/lform.mkv
+#EXTINF:-1 tvg-logo="http://www.papasehijos.com/wp-content/uploads/2017/12/FERDINAND.jpg", Ole el Viaje de Ferdinand
+http://80.211.184.12/ferdi.mkv
