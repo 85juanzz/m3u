@@ -1,23 +1,9 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://files.soniccdn.com/files/2016/12/09/westworld-overlay-a.jpg", 1x01
-http://94.177.171.208/WW/1x01.mkv
-#EXTINF:-1 tvg-logo="https://files.soniccdn.com/files/2016/12/09/westworld-overlay-a.jpg",1x02
-http://94.177.171.208/WW/1x02.mkv
-#EXTINF:-1 tvg-logo="https://files.soniccdn.com/files/2016/12/09/westworld-overlay-a.jpg",1x03
-http://94.177.171.208/WW/1x03.mkv
-#EXTINF:-1 tvg-logo="https://files.soniccdn.com/files/2016/12/09/westworld-overlay-a.jpg",1x04
-http://94.177.171.208/WW/1x04.mkv
-#EXTINF:-1 tvg-logo="https://files.soniccdn.com/files/2016/12/09/westworld-overlay-a.jpg",1x05
-http://94.177.171.208/WW/1x05.mkv
-#EXTINF:-1 tvg-logo="https://files.soniccdn.com/files/2016/12/09/westworld-overlay-a.jpg",1x06
-http://94.177.171.208/WW/1x06.mkv
-#EXTINF:-1 tvg-logo="https://files.soniccdn.com/files/2016/12/09/westworld-overlay-a.jpg",1x07
-http://94.177.171.208/WW/1x07.mkv
-#EXTINF:-1 tvg-logo="https://files.soniccdn.com/files/2016/12/09/westworld-overlay-a.jpg",1x08
-http://94.177.171.208/WW/1x08.mkv
-#EXTINF:-1 tvg-logo="https://files.soniccdn.com/files/2016/12/09/westworld-overlay-a.jpg",1x09
-http://94.177.171.208/WW/1x09.mkv
-#EXTINF:-1 tvg-logo="https://files.soniccdn.com/files/2016/12/09/westworld-overlay-a.jpg",1x10
-http://94.177.171.208/WW/1x10.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/roots-347636783-large.jpg", raices 1
+http://212.237.38.147/rc/raices.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/roots-347636783-large.jpg", raices 2
+http://212.237.38.147/rc/raices.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/roots-347636783-large.jpg", raices 3
+http://212.237.38.147/rc/raices.mkv
