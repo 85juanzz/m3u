@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://www.koi-nya.net/img/subidos_posts/2015/02/Kaguya-hime-no-Monogatari-730x395.jpg", El cuento de la princesa Kaguya
+http://212.237.38.147/kaguya
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/el-nino-y-la-bestia/85514946-1-esl-ES/El-nino-y-la-Bestia_reference.jpg", El Niño y la Bestia
+http://212.237.38.147/niño
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_nice_guys-516760362-large.jpg", Dos buenos tipos
+http://94.177.171.208/dos.mkv
 #EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/elle/113885107-1-esl-ES/Elle_reference.jpg", Elle
 http://212.237.38.147/elle.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/star_wars_the_last_jedi-535293064-large.jpg", Star Wars Los Ultimos Jedi
@@ -8,5 +15,3 @@ http://94.177.171.208/star.mkv
 http://94.177.171.208/batman.mkv
 #EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/10300/10340/002_48vusx.jpg", Spotlight
 http://94.177.171.208/spotlight.mkv
-#EXTINF:-1 tvg-logo="https://www.koi-nya.net/img/subidos_posts/2015/02/Kaguya-hime-no-Monogatari-730x395.jpg", El cuento de la princesa Kaguya
-http://212.237.38.147/kaguya
