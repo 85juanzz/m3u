@@ -3,8 +3,5 @@
 
 #EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/el-nino-y-la-bestia/85514946-1-esl-ES/El-nino-y-la-Bestia_reference.jpg", El Niño y la Bestia
 http://94.177.171.208/nino.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/kimi_no_na_wa-612760352-large.jpg", Your Name
-http://94.177.171.208/name.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/carol-180515019-large.jpg", Carol
-http://94.177.171.208/carol.mkv
-
+#EXTINF:-1 tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcS1RJJUBGRZFEzfSmdG4biDlXDAhsrpvgwLWkO-wSIfyePuZJAj", Aniquilación
+http://94.177.171.208/aniquilacion.mkv
