@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_17277_67.jpg", Beyond Skyline
-http://94.177.171.208/skyline.mkv
-#EXTINF:-1 tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcS1RJJUBGRZFEzfSmdG4biDlXDAhsrpvgwLWkO-wSIfyePuZJAj", Aniquilación
-http://94.177.171.208/aniquilacion.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_book_of_henry-272645839-large.jpg", El libro secreto de Henry
+http://94.177.171.208/henry.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Roman_J_Israel_Esq-947809877-large.jpg", Roman J. Israel, Esq.
+http://94.177.171.208/roman.mkv
