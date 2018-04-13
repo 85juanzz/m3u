@@ -1,9 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_book_of_henry-272645839-large.jpg", El libro secreto de Henry
-http://94.177.171.208/henry.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_titan-698257299-large.jpg", The Titan
-http://80.211.177.116/titan.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_commuter-335933258-large.jpg", El Pasajero
-http://80.211.177.116/pasajero.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/maze_runner_the_death_cure-119590517-large.jpg", Maze Runner: La cura mortal
+http://94.177.171.208/maze.mkv
