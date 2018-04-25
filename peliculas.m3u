@@ -1,8 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/den_of_thieves-258335369-large.jpg", Juego de ladrones
-http://94.177.171.208/ladrones.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_post-171811926-large.jpg", Los Oscuros Secretos del Pentágono
-http://94.177.171.208/post.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/you_were_never_really_here-262591094-large.jpg", En realidad, nunca estuviste aquí
-http://94.177.171.208/estuviste.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/peter_rabbit-719043688-large.jpg", Las Travesuras de Peter Rabbit
+http://94.177.171.208/rabbit.mkv
