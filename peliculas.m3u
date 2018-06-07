@@ -1,4 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_15_17_to_paris-554840004-large.jpg", 15:17 Paris
-https://tecnoliz.com/paris.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/gui_lai-935571711-large.jpg", Regreso a casa
+http://tecnoliz.com/hnjn.avi
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/tremors_a_cold_day_in_hell-351388696-large.jpg", Temblores 6
+http://tecnoliz.com/temblores.mkv
