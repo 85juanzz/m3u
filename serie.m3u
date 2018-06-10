@@ -1,17 +1,5 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_hundred_tv_series-674895049-large.jpg", Los 100 5x01
-http://tecnoliz.com/the1005x1.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_hundred_tv_series-674895049-large.jpg", Los 100 5x02
-http://tecnoliz.com/the1005x2.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_hundred_tv_series-674895049-large.jpg", Los 100 5x03
-http://tecnoliz.com/the1005x3.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_hundred_tv_series-674895049-large.jpg", Los 100 5x04
-http://tecnoliz.com/the1005x4.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_hundred_tv_series-674895049-large.jpg", Los 100 5x05
-http://tecnoliz.com/the1005x5.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_hundred_tv_series-674895049-large.jpg", Los 100 5x06
 http://tecnoliz.com/the1005x6.mkv
-EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_hundred_tv_series-674895049-large.jpg", Los 100 5x07
-http://tecnoliz.com/the1005x7.mkv
