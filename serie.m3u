@@ -1,5 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_hundred_tv_series-674895049-large.jpg", Los 100 5x06
-http://tecnoliz.com/the1005x6.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/westworld_tv_series-449705051-large.jpg", WestWorld 2x06
+http://tecnoliz.com/ww2x06.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/westworld_tv_series-449705051-large.jpg", WestWorld 2x07
+http://tecnoliz.com/ww2x07.mkv
