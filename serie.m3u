@@ -1,10 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/westworld_tv_series-449705051-large.jpg", WestWorld 2x08
-http://tecnoliz.com/ww08.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/westworld_tv_series-449705051-large.jpg", WestWorld 2x09
-http://tecnoliz.com/ww09.mkv
+
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/westworld_tv_series-449705051-large.jpg", WestWorld 2x10
 http://tecnoliz.com/ww10.mkv
 
