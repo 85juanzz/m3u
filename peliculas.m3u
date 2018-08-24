@@ -1,6 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/gui_lai-935571711-large.jpg", Regreso a casa
-http://tecnoliz.com/hnjn.avi
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/tremors_a_cold_day_in_hell-351388696-large.jpg", Temblores 6
-http://tecnoliz.com/temblores.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/breaking_in-472832089-large.jpg", Asalto en la noche
+http://80.211.63.26/media/Breaking_in.mkv 
