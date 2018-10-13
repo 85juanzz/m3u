@@ -2,6 +2,14 @@
 
 EXTINF:-1 tvg-logo="",
 EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/201810/art/jwb_univ_201810_wss_01_lg.jpg", oct 2018
+https://download-a.akamaihd.net/files/media_periodical/e1/jwb_S_201810_01_r720P.mp4
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/201809/art/jwb_univ_201809_wss_01_lg.jpg", sep 2018
+https://download-a.akamaihd.net/files/media_periodical/18/jwb_S_201809_01_r720P.mp4
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/201808/art/jwb_univ_201808_wss_01_lg.jpg", ago 2018
+https://download-a.akamaihd.net/files/media_periodical/61/jwb_S_201808_01_r720P.mp4
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/201807/art/jwb_univ_201807_wss_01_lg.jpg", jul 2018
+https://download-a.akamaihd.net/files/media_periodical/17/jwb_S_201807_01_r720P.mp4
 #EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/201806/art/jwb_univ_201806_wss_01_lg.jpg", jun 2018
 https://download-a.akamaihd.net/files/media_periodical/1d/jwb_S_201806_01_r720P.mp4
 #EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/jwb/univ/201805/art/jwb_univ_201805_wss_01_lg.jpg", may 2018
