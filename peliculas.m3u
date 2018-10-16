@@ -1,8 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/breaking_in-472832089-large.jpg", Asalto en la noche
-http://80.211.63.26/media/Breaking_in.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/paddington_bear-489009991-large.jpg", paddington
-http://80.211.63.26/media/Paddington.mkv
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/mute-986749956-large.jpg", Mudo
-http://80.211.63.26/media/MuteMundo.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg0NjU1MjgyNF5BMl5BanBnXkFtZTgwNzc5NjYyNDM@._V1_SY1000_CR0,0,674,1000_AL_.jpg", Amor de medianoche
+http://217.61.110.37/amor.mkv
