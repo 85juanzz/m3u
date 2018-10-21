@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/502018418/univ/art/502018418_univ_wss_lg.jpg", Mi cuerpo es una maravilla
+https://download-a.akamaihd.net/files/media_video/84/pkon_S_011_r720P.mp4
 #EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/502018436/univ/art/502018436_univ_wsr_lg.jpg", Canción 133: Sirvamos a Jehová en nuestra juventud
 https://download-a.akamaihd.net/files/media_video/c8/pksjj_S_133_r720P.mp4
 #EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/502018415/univ/art/502018415_univ_lss_lg.jpg", Estoy preparado para mejorar
