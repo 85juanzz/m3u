@@ -1,27 +1,27 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x01
-http://troid.tecnoliz.com/expanse_S03E01.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x02
-http://troid.tecnoliz.com/expanse_S03E02.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x03
-http://troid.tecnoliz.com/expanse_S03E03.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x04
-http://troid.tecnoliz.com/expanse_S03E04.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x05
-http://troid.tecnoliz.com/expanse_S03E05.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x06
-http://troid.tecnoliz.com/expanse_S03E06.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x07
-http://troid.tecnoliz.com/expanse_S03E07.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x08
-http://troid.tecnoliz.com/expanse_S03E08.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x09
-http://troid.tecnoliz.com/expanse_S03E09.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x10
-http://troid.tecnoliz.com/expanse_S03E10.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x11
-http://troid.tecnoliz.com/expanse_S03E11.mp4
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_expanse_tv_series-110247894-large.jpg", The Expanse 2x12-13
-http://troid.tecnoliz.com/expanse_S03E12-13.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x01
+http://217.61.110.37/the_gifted/S01E01.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x02
+http://217.61.110.37/the_gifted/S01E02.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x03
+http://217.61.110.37/the_gifted/S01E03.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x04
+http://217.61.110.37/the_gifted/S01E04.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x05
+http://217.61.110.37/the_gifted/S01E05.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x06
+http://217.61.110.37/the_gifted/S01E06.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x07
+http://217.61.110.37/the_gifted/S01E07.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x08
+http://217.61.110.37/the_gifted/S01E08.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x09
+http://217.61.110.37/the_gifted/S01E09.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x10
+http://217.61.110.37/the_gifted/S01E10.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x11
+http://217.61.110.37/the_gifted/S01E11.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_gifted_tv_series-881672173-large.jpg", The Gifted 1x12-13
+http://217.61.110.37/the_gifted/S01E12-13.mkv
