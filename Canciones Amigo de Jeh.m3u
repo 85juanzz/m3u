@@ -1,5 +1,25 @@
 #EXTM3U
 
+EXTINF:-1 tvg-logo="", 
+EXTINF:-1 tvg-logo="", 
+EXTINF:-1 tvg-logo="", 
+EXTINF:-1 tvg-logo="", 
+EXTINF:-1 tvg-logo="", 
+EXTINF:-1 tvg-logo="", 
+EXTINF:-1 tvg-logo="", 
+EXTINF:-1 tvg-logo="", 
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/502019552/univ/art/502019552_univ_wss_lg.jpg", Canción 005 Las maravillosas obras de Dios
+https://download-a.akamaihd.net/files/media_publication/b2/pksjj_S_005_r720P.mp4
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/502019536/univ/art/502019536_univ_wss_lg.jpg", Nos encanta la adoración en familia
+https://download-a.akamaihd.net/files/media_publication/fa/pkon_S_014_r720P.mp4
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/502019533/univ/art/502019533_univ_wss_lg.jpg", “Quiero” (canción 17)
+https://download-a.akamaihd.net/files/media_publication/b4/pksjj_S_017_r720P.mp4
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/502019528/univ/art/502019528_univ_wss_lg.jpg", La canción de Hazte amigo de Jehová
+https://download-a.akamaihd.net/files/media_publication/70/pkon_S_013_r720P.mp4
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/502019525/univ/art/502019525_univ_wss_lg.jpg", Aprendamos a perdonar (canción 130)
+https://download-a.akamaihd.net/files/media_publication/ad/pksjj_S_130_r720P.mp4
+#EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/502018421/univ/art/502018421_univ_wss_lg.jpg", Mi mejor amigo
+https://download-a.akamaihd.net/files/media_publication/b0/pkon_S_012_r720P.mp4
 #EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/502018418/univ/art/502018418_univ_wss_lg.jpg", Mi cuerpo es una maravilla
 https://download-a.akamaihd.net/files/media_publication/84/pkon_S_011_r720P.mp4
 #EXTINF:-1 tvg-logo="https://assetsnffrgf-a.akamaihd.net/assets/m/502018436/univ/art/502018436_univ_wsr_lg.jpg", Canción 133: Sirvamos a Jehová en nuestra juventud
